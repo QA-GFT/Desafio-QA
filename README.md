@@ -33,9 +33,8 @@ Criar um único projeto, realizando um Fork desse repositorio, contendo:
         3- Usar Selenium Web-Driver.
         4- Utilizar Cucumber para documentar os cenários.
         5- Utlizar as bibliotecas que achar necessária para a execução dos testes.
-        6- Utilizar os Conceitos de BDD e/ou Page Objects.
 
-        Diferencias: Prencher os campos com geração de dados dinamicos(exceto Login) e escolha aleatória na seleção das opções (combo boxes, check boxes, etc).
+        Diferencias: Utilizar o Conceito de PageObjects, prencher os campos com geração de dados dinamicos(exceto Login) e escolha aleatória na seleção das opções (combo boxes, check boxes, etc).
 
         OBS: Os itens obrigatorios são do 1 ao 6.
 
@@ -51,7 +50,6 @@ Criar um único projeto, realizando um Fork desse repositorio, contendo:
         4- Utilizar Cucumber para documentar os cenários.
         
 
-        OBS: Os itens obrigatorios são do 1 ao 6.
 ## Desafio de performance
     * Projeto:
         1- Criar um script utilizando o Jmeter.
